@@ -1,3 +1,5 @@
+package org.campus02.logisticmanager;
+
 public class Car implements Moveable{
 
     private String type;
@@ -17,7 +19,7 @@ public class Car implements Moveable{
 
     @Override
     public String toString() {
-        return "Car{" +
+        return "org.campus02.logisticmanager.Car{" +
                 "type='" + type + '\'' +
                 ", color='" + color + '\'' +
                 ", weight=" + weight +

@@ -1,3 +1,5 @@
+package org.campus02.logisticmanager;
+
 public class LogisticsDemo {
 
     public static void main(String[] args) {

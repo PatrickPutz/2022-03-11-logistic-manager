@@ -1,3 +1,5 @@
+package org.campus02.logisticmanager;
+
 public class Shirt implements Moveable{
 
     private String brand;
@@ -17,7 +19,7 @@ public class Shirt implements Moveable{
 
     @Override
     public String toString() {
-        return "Shirt{" +
+        return "org.campus02.logisticmanager.Shirt{" +
                 "brand='" + brand + '\'' +
                 ", size='" + size + '\'' +
                 ", color='" + color + '\'' +

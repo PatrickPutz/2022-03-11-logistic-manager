@@ -1,3 +1,5 @@
+package org.campus02.logisticmanager;
+
 import java.util.ArrayList;
 
 public class LogisticManager {
